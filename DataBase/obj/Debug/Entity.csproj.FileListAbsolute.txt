@@ -1,0 +1,12 @@
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\bin\Debug\DataBase.exe.config
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\bin\Debug\DataBase.exe
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\bin\Debug\DataBase.pdb
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\bin\Debug\EntityFramework.dll
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\bin\Debug\EntityFramework.xml
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\obj\Debug\Entity.csproj.AssemblyReference.cache
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\obj\Debug\Entity.csproj.CopyComplete
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\obj\Debug\DataBase.exe
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\DataBase\obj\Debug\DataBase.pdb

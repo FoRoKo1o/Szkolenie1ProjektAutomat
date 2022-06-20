@@ -1,0 +1,16 @@
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\bin\Debug\EntityDB.exe.config
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\bin\Debug\EntityDB.exe
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\bin\Debug\EntityDB.pdb
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\bin\Debug\EntityFramework.dll
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\bin\Debug\EntityFramework.SqlServer.dll
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\bin\Debug\EntityFramework.xml
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\bin\Debug\EntityFramework.SqlServer.xml
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\obj\Debug\EntityDB.csproj.CoreCompileInputs.cache
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\obj\Debug\EntityDB.csproj.CopyComplete
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\obj\Debug\EntityDB.exe
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\obj\Debug\EntityDB.pdb
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\obj\Debug\EntityDB.csproj.AssemblyReference.cache
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\obj\Debug\EntityDB.Migrations.InitialCreate.resources
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\obj\Debug\EntityDB.csproj.GenerateResource.cache
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\obj\Debug\EntityDB.Migrations.name.resources
+E:\_100 dia\SzkolenieTechniczne\ProjektAutomat\EntityDB\obj\Debug\EntityDB.Migrations.test2.resources

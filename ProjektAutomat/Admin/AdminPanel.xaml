@@ -1,0 +1,54 @@
+﻿<Window x:Class="ProjektAutomat.Admin.AdminPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjektAutomat.Admin"
+        mc:Ignorable="d"
+        Title="AdminPanel" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="342*"/>
+            <RowDefinition Height="77*"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="27*" />
+                <RowDefinition Height="232*" />
+                <RowDefinition Height="83*" />
+            </Grid.RowDefinitions>
+            <WrapPanel>
+                <TextBlock Text="ProductID" Width="155" Height="27"/>
+                <TextBlock Text="VendID" Width="155" Height="27"/>
+                <TextBlock Text="Name" Width="155" Height="27"/>
+                <TextBlock Text="Cost" Width="155" Height="27"/>
+                <TextBlock Text="Quantity" Width="155" Height="27"/>
+            </WrapPanel>
+            <ListView Grid.Row="1" x:Name="Vend1List">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel >
+                            <TextBlock Text="{Binding ProductID}" Width="155"/>
+                            <TextBlock Text="{Binding VendID}" Width="155"/>
+                            <TextBlock Text="{Binding Name}" Width="155"/>
+                            <TextBlock Text="{Binding Cost}" Width="155"/>
+                            <TextBlock Text="{Binding Quantity}" Width="155"/>
+                        </WrapPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Vend1ProdName"/>
+                <TextBox Name="vend1Quantity" Grid.Column="1"/>
+                <Button x:Name="vend1add" Grid.Column="2" Content="Add"/>
+            </Grid>
+        </Grid>
+        <Button Click="logout" Content="Logout" Grid.Row="1"/>
+    </Grid>
+</Window>
